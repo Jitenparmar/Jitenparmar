@@ -10,6 +10,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ... SharePoint | Office 365 | Power Platform
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/jitenyparmar/">Linkedin</a> | <a href="https://twitter.com/Jitenpa44241205"> Twitter </a> 
-- 😄 Pronouns: SharePoint|Office 365 Solution Architect
+- 😄 Pronouns: SharePoint | Office 365 Solution Architect
 - ⚡ Fun fact: Don't take #Code seriously.
 
