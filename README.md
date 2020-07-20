@@ -4,6 +4,7 @@
 **Jitenparmar/Jitenparmar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 -->
+<img src="/Office365Consultant.svg"/>
 - 🔭 I’m currently working on SharePoint | Office 365 | Power Platform
 - 🌱 I’m currently learning Graph API and React
 - 👯 I’m looking to collaborate on SharePoint and Office 365
